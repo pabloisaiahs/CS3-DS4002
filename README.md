@@ -35,7 +35,7 @@ This repository is designed as a **case study challenge** to help students build
 - `LICENSE.md` → MIT License  
 
 📂 **Hook_Document/**  
-- `Hook_Document.pdf` → One-page intro to the case study
+- `Hook.pdf` → One-page intro to the case study
 
 📂 **Rubric/**  
 - `Rubric.pdf` → Detailed rubric for the case study deliverables
@@ -91,4 +91,4 @@ By the end, you’ll have a solid understanding of how machine learning can be a
 
 ---
 
-**Created by Paul Rosa – DS 4002 (Spring 2024)**
+**Created by Paul Rosa – DS 4002 (Spring 2025)**
